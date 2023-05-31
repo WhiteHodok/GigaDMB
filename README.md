@@ -10,15 +10,15 @@ This is a Discord bot that allows you to play music from YouTube in a voice chan
 
 To use this bot, you need to have Python 3.8 or higher installed on your system. Follow these steps to set up the bot:
 
-Clone this repository to your local machine or download the code as a ZIP file.
+- Clone this repository to your local machine or download the code as a ZIP file.
 
-Install the required dependencies by running the following command in the project directory:
+# Install the required dependencies by running the following command in the project directory:
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
-Replace the token variable in the code with your own Discord bot token. You can obtain a token by creating a new bot on the Discord Developer Portal.
+- Replace the token variable in the code with your own Discord bot token. You can obtain a token by creating a new bot on the Discord Developer Portal.
 
-Run the bot by executing the following command:
+# Run the bot by executing the following command:
 
 python bot.py
 
