@@ -48,3 +48,5 @@ Once the bot is up and running, you can use the following commands to control th
 - $remove <index>: Removes the song at the specified index from the queue.
 
  Feel free to modify the code and add more features according to your needs.
+
+A bot running on pafy & youtubesearchpython can be found in the pafydev branch
